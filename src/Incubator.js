@@ -5,8 +5,8 @@ import data from "./restaurantdata";
 
 function App() {
   return (
-    <div>
-    </div>
+    <main>
+    </main>
   );
 }
 

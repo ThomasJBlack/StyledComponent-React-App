@@ -4,6 +4,7 @@ const data = [
 		primaryColor: "#A87748",
 		secondaryColor: "#6E8396",
 		tertiaryColor: "#FDB403",
+		image: "https://i.ytimg.com/vi/k8mtniFe8vw/maxresdefault.jpg",
 		menu: [
 			{
 				name: "Space Sized Taco",
@@ -24,6 +25,7 @@ const data = [
 		primaryColor: "#F9EF05",
 		secondaryColor: "#8E8F94",
 		tertiaryColor: "#070707",
+		image: "https://www.dictionary.com/e/wp-content/uploads/2019/04/space-burger.jpg",
 		menu: [
 			{
 				name: "Burger",
@@ -44,6 +46,7 @@ const data = [
 		primaryColor: "#55778C",
 		secondaryColor: "#B6BFCB",
 		tertiaryColor: "#424356",
+		image: "https://live.staticflickr.com/65535/48445344092_972496756e_b.jpg",
 		menu: [
 			{
 				name: "Worm Soup",
